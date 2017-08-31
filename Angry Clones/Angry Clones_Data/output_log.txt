@@ -1,0 +1,58 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     2103 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.302 seconds
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Neel\WD Cloud\Neel\School Stuff\Computer\Extra\Unity Projects\AngryBirdsClone-master\Angry Clones_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.596313 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.846874 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 578.
+Total: 0.534500 ms (FindLiveObjects: 0.065529 ms CreateObjectMapping: 0.038291 ms MarkObjects: 0.421994 ms  DeleteObjects: 0.008289 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.917250 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 706.
+Total: 1.201244 ms (FindLiveObjects: 0.136191 ms CreateObjectMapping: 0.116058 ms MarkObjects: 0.930835 ms  DeleteObjects: 0.016185 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.720661 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 0.875569 ms (FindLiveObjects: 0.067108 ms CreateObjectMapping: 0.057634 ms MarkObjects: 0.665954 ms  DeleteObjects: 0.082898 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.897989 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 1.027551 ms (FindLiveObjects: 0.123164 ms CreateObjectMapping: 0.073424 ms MarkObjects: 0.814382 ms  DeleteObjects: 0.014211 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.213712 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.931625 ms (FindLiveObjects: 0.081714 ms CreateObjectMapping: 0.055265 ms MarkObjects: 0.778459 ms  DeleteObjects: 0.014211 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6060 -> priority: 1 
